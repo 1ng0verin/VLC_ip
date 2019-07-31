@@ -1,0 +1,14 @@
+C:\Users\I.Gulyaev\Desktop\Test\bin\Debug\Vlc.DotNet.Core.dll
+C:\Users\I.Gulyaev\Desktop\Test\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\I.Gulyaev\Desktop\Test\bin\Debug\Vlc.DotNet.Forms.dll
+C:\Users\I.Gulyaev\Desktop\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\I.Gulyaev\Desktop\Test\obj\Debug\VLC_ip.MainForm.resources
+C:\Users\I.Gulyaev\Desktop\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\I.Gulyaev\Desktop\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\I.Gulyaev\Desktop\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\I.Gulyaev\Desktop\Test\bin\Debug\Test.exe.config
+C:\Users\I.Gulyaev\Desktop\Test\bin\Debug\Test.exe
+C:\Users\I.Gulyaev\Desktop\Test\bin\Debug\Test.pdb
+C:\Users\I.Gulyaev\Desktop\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\I.Gulyaev\Desktop\Test\obj\Debug\Test.exe
+C:\Users\I.Gulyaev\Desktop\Test\obj\Debug\Test.pdb
